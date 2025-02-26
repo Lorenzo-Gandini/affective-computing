@@ -3,35 +3,35 @@
 ### Academic Year: 2024/2025
 
 ### 📌 About This Repository
-TEAM (Tennis Emotion Analysis for Mates) è un modello teorico per l'analisi delle emozioni e della chimica di squadra nel tennis in doppio. Il progetto propone un framework basato su tecniche avanzate di computer vision e deep learning per analizzare espressioni facciali, gesti corporei e movimenti sincronizzati dei giocatori.
+TEAM (Tennis Emotion Analysis for Mates) is a theoretical model designed to analyze emotions and team chemistry in doubles tennis. The project proposes a framework using computer vision and deep learning techniques to study facial expressions, body gestures, and synchronized movements between teammates.
 
-🚨 Attenzione: Questo progetto è puramente concettuale e non prevede implementazione pratica. L'obiettivo del corso è la scrittura di una Grant Proposal, un documento che descrive la ricerca, la metodologia proposta e l’impatto atteso.
+🚨 Important: This project is purely conceptual and does not involve practical implementation. The objective of the course is to write a Grant Proposal, a document that outlines the research, proposed methodology, and expected impact.
 
-### 🎯 Obiettivi del Progetto
-✔️ Riconoscere gli stati emotivi dei giocatori in momenti chiave del match \
-✔️ Valutare la chimica di squadra attraverso sincronizzazione, congruenza emotiva e qualità delle interazioni \
-✔️ Analizzare la correlazione tra emozioni, eventi di gioco e performance 
+### 🎯  Project Goal
+✔️ Recognize players' emotional states during key match moments \
+✔️ Assess team chemistry through synchronization, emotional congruence, and interaction quality \
+✔️ Analyze the correlation between emotions, game events, and performance
 
-### 🛠️ Tecnologie Proposte
-Nonostante il progetto sia solo teorico, il modello si basa sull'uso di strumenti avanzati di AI e computer vision, tra cui:
+### 🛠️ Proposed Technologies
+Although this project is only theoretical, the model is based on advanced AI and computer vision tools, including:
 
-🔹 ResNet50 – Analisi delle espressioni facciali \
-🔹 OpenPose – Riconoscimento della postura e dei movimenti \
-🔹 YOLO – Rilevamento e tracciamento dei giocatori \
-🔹 SlowFast Networks – Identificazione degli eventi di gioco
+🔹 ResNet50 – Facial expression analysis \
+🔹 OpenPose – Posture and movement recognition \
+🔹 YOLO – Player detection and tracking \
+🔹 SlowFast Networks – Game event identification
 
-### 📄 Il Progetto d'Esame: Grant Proposal
-Questa repository contiene esclusivamente la Grant Proposal, il documento richiesto per l'esame del corso. Il documento include:
+### 📄 Exam Project: Grant Proposal
+This repository contains only the Grant Proposal, the required document for the course exam. The document includes:
 
-Introduzione al problema e obiettivi della ricerca \
-Revisione della letteratura e lacune scientifiche \
-Descrizione dettagliata del framework teorico proposto \
-Metodologia e tecniche di analisi \
-Impatto scientifico ed economico del progetto
+- Introduction to the problem and research objectives \
+- Literature review and identified gaps \
+- Detailed description of the proposed theoretical framework \
+- Methodology and analysis techniques \
+- Scientific and economic impact of the project
 
-### 🚀 Impatto e Futuro
-TEAM si propone come un modello teorico innovativo per lo studio delle dinamiche emozionali e della collaborazione nel tennis in doppio. Sebbene non sia sviluppato in questa fase, il framework potrebbe ispirare future ricerche nel campo dell'Affective Computing e della Sport Analytics.
+### 🚀 Impact & Future Directions
+TEAM serves as an innovative theoretical model for studying emotional dynamics and teamwork in doubles tennis. While it is not being developed at this stage, the framework could inspire future research in Affective Computing and Sports Analytics.
 
-📌 Questa repository contiene solo documentazione accademica e non include codice o dataset.
+📌 This repository contains only academic documentation and does not include code or datasets.
 
 
